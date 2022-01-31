@@ -9,3 +9,5 @@ Les 3: https://32709.hosts1.ma-cloud.nl/Les3/
 Les 4: https://32709.hosts1.ma-cloud.nl/Les4/
 
 Les 5/6: https://32709.hosts1.ma-cloud.nl/Les5/
+
+Portfolio kreeg ik niet voor mekaar, dus staat in het mapje
